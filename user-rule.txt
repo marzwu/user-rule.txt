@@ -1,0 +1,24 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+bitmex.com
+binance.com
+okex.com
+okcoin.com
+kucoin.io
+kucoin.com
+zb.com
+hitbtc.com
+coinegg.com
+bitsblockchain.com
+hotbit.io
+zaif.jp
+huobi.pro
+zb.com
+bibox.com
+
+cryptocountries.io
+solc-bin.ethereum.org
+plugins.jetbrains.com
+
+sex.com
