@@ -17,8 +17,11 @@ huobi.pro
 zb.com
 bibox.com
 
+eos.io
+
 cryptocountries.io
 solc-bin.ethereum.org
 plugins.jetbrains.com
+cloudfront.net
 
 sex.com
