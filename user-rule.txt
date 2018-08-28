@@ -23,5 +23,6 @@ cryptocountries.io
 solc-bin.ethereum.org
 plugins.jetbrains.com
 cloudfront.net
+workflowy.com
 
 sex.com
