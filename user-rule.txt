@@ -24,5 +24,8 @@ solc-bin.ethereum.org
 plugins.jetbrains.com
 cloudfront.net
 workflowy.com
+bugatti.com
+reddit.com
+redditmedia.com
 
 sex.com
