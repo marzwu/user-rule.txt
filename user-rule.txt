@@ -1,10 +1,15 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 
+hbg.com
 bitmex.com
 binance.com
+bnbstatic.com
+huobi.com
+huobi.pro
 okex.com
 okcoin.com
+ocx.com
 kucoin.io
 kucoin.com
 zb.com
@@ -13,9 +18,9 @@ coinegg.com
 bitsblockchain.com
 hotbit.io
 zaif.jp
-huobi.pro
 zb.com
 bibox.com
+bitwise.cc
 
 eos.io
 
@@ -27,5 +32,11 @@ workflowy.com
 bugatti.com
 reddit.com
 redditmedia.com
+github.io
+geeksforgeeks.org
 
 sex.com
+
+asseenontv.com
+
+google.golang.org
